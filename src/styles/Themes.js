@@ -19,4 +19,5 @@ export const dark = {
 
   // Colors:
   green: "#c6e9d6",
+  pink: "#f2b8b6",
 };

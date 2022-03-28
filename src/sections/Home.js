@@ -15,7 +15,6 @@ const Home = () => {
       <CoverVideo />
       <Logo />
       <NavBar />
-      <Section>Home</Section>
     </div>
   );
 };
