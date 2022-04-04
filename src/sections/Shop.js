@@ -194,7 +194,6 @@ const Shop = () => {
         <Product img={img4} title="Curso 4" />
         <Product img={img5} title="Curso 5" />
         <Product img={img5} title="Curso 5" />
-        <Product img={img5} title="Curso 5" />
       </Right>
     </Section>
   );
